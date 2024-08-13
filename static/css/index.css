@@ -1,0 +1,242 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #e6d4f0; /* Lilás claro */
+    color: #4b0082; /* Roxo escuro */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 20px;
+    border-bottom: 5px solid #d9a4ff; /* Lilás suave */
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #4b0082;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.doce {
+    margin: 15px;
+    padding: 15px;
+    background-color: #f3e6ff; /* Fundo lilás claro */
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.doce:hover {
+    transform: scale(1.05);
+}
+
+.doce img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.doce p {
+    color: #a32cc4; /* Roxo intenso */
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 1em;
+    text-shadow: 1px 1px #4b0082;
+}
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #e6d4f0; /* Lilás claro */
+    color: #4b0082; /* Roxo escuro */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 20px;
+    border-bottom: 5px solid #d9a4ff; /* Lilás suave */
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #4b0082;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.doce {
+    margin: 15px;
+    padding: 15px;
+    background-color: #f3e6ff; /* Fundo lilás claro */
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    width: 250px;
+    text-align: left;
+}
+
+.doce:hover {
+    transform: scale(1.05);
+}
+
+.doce img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.doce h2 {
+    color: #a32cc4; /* Roxo intenso */
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.doce p {
+    color: #4b0082; /* Roxo escuro */
+    margin: 5px 0;
+}
+
+.preco {
+    font-size: 1.2em;
+    color: #a32cc4; /* Roxo intenso */
+    font-weight: bold;
+}
+
+footer {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 1em;
+    text-shadow: 1px 1px #4b0082;
+}
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #e6d4f0; /* Lilás claro */
+    color: #4b0082; /* Roxo escuro */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 20px;
+    border-bottom: 5px solid #d9a4ff; /* Lilás suave */
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #4b0082;
+}
+
+.sobre {
+    padding: 20px;
+    background-color: #f3e6ff; /* Fundo lilás claro */
+    color: #4b0082; /* Texto roxo escuro */
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.sobre h2 {
+    color: #a32cc4; /* Roxo intenso */
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+.sobre p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+    margin-bottom: 15px;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.doce {
+    margin: 15px;
+    padding: 15px;
+    background-color: #f3e6ff; /* Fundo lilás claro */
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    width: 250px;
+    text-align: left;
+}
+
+.doce:hover {
+    transform: scale(1.05);
+}
+
+.doce img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.doce h2 {
+    color: #a32cc4; /* Roxo intenso */
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.doce p {
+    color: #4b0082; /* Roxo escuro */
+    margin: 5px 0;
+}
+
+.preco {
+    font-size: 1.2em;
+    color: #a32cc4; /* Roxo intenso */
+    font-weight: bold;
+}
+
+footer {
+    background-color: #a32cc4; /* Roxo intenso */
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 1em;
+    text-shadow: 1px 1px #4b0082;
+}

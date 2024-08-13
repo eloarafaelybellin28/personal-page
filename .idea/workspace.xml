@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="769145af-303e-40f7-b03a-a0843da50a6a" name="Changes" comment="Primeira versão do site" />
+    <list default="true" id="769145af-303e-40f7-b03a-a0843da50a6a" name="Changes" comment="Primeira versão do site">
+      <change afterPath="$PROJECT_DIR$/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bolo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/brigadeiro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chocolate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/doces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/moranguinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +45,15 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/2_DEV/personal-page/static/images",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2_DEV\personal-page\static\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="personal-page" />
@@ -140,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723555826991</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Primeira versão do site">
+      <option name="closed" value="true" />
+      <created>1723556320954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723556320954</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
